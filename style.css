@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.spacer {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+
+#intro {
+    background-color: blue;
+    color: white;
+}
+
+.recipe {
+    font-size: 25px;
+}
